@@ -52,7 +52,9 @@ function perfectFriend(friendsName) {
     } 
 }
 
-// // calling the function
+
 var result = perfectFriend(["asif", "abdullah", "Modon", "galib", "authy", "shorif"]);
 console.log(result);
+
+
 
